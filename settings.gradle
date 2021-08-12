@@ -1,0 +1,2 @@
+rootProject.name = "AccelerometerApplicationCemit"
+include ':app'
